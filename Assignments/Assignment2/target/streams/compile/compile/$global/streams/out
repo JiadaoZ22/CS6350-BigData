@@ -1,0 +1,26 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/src/main/scala/MoviePlot.scala:7:31: encountered unrecoverable cycle resolving import.[0m
+[0m[[0m[31merror[0m] [0m[0mNote: this is often due in part to a class depending on a definition nested within its companion.[0m
+[0m[[0m[31merror[0m] [0m[0mIf applicable, you may wish to try moving some members into another object.[0m
+[0m[[0m[31merror[0m] [0m[0m  import org.apache.spark.sql.functions._[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/src/main/scala/MoviePlot.scala:56:110: value $ is not a member of StringContext[0m
+[0m[[0m[31merror[0m] [0m[0m    val idf = df.groupBy("filtered").agg(countDistinct("mid") as "df").withColumn("idf", log10(lit(N).divide($"df")))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/src/main/scala/MoviePlot.scala:63:113: value $ is not a member of StringContext[0m
+[0m[[0m[31merror[0m] [0m[0m    val joinTFIDF = tfidf.join(mlist, tfidf("mid")===mlist("mid"), "left").select(mlist("mid"), mlist("mname"), $"filtered", $"tf_idf")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/src/main/scala/MoviePlot.scala:63:126: value $ is not a member of StringContext[0m
+[0m[[0m[31merror[0m] [0m[0m    val joinTFIDF = tfidf.join(mlist, tfidf("mid")===mlist("mid"), "left").select(mlist("mid"), mlist("mname"), $"filtered", $"tf_idf")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/src/main/scala/PageRank.scala:6:16: encountered unrecoverable cycle resolving import.[0m
+[0m[[0m[31merror[0m] [0m[0mNote: this is often due in part to a class depending on a definition nested within its companion.[0m
+[0m[[0m[31merror[0m] [0m[0mIf applicable, you may wish to try moving some members into another object.[0m
+[0m[[0m[31merror[0m] [0m[0m  import spark.implicits._[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/src/main/scala/PageRank.scala:39:78: not found: value lit[0m
+[0m[[0m[31merror[0m] [0m[0m      .withColumnRenamed("ORIGIN_AIRPORT_ID", "AIRPORT_ID").withColumn("PR", lit(initial))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/src/main/scala/PageRank.scala:44:55: not found: value collect_list[0m
+[0m[[0m[31merror[0m] [0m[0m    dataDF = dataDF.groupBy($"ORIGIN_AIRPORT_ID").agg(collect_list(("DEST_AIRPORT_ID")))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

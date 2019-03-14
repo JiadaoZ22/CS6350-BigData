@@ -1,11 +1,41 @@
-[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.12/assignment2_2.12-0.1.jar ...[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/assignment2_2.11-0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.12/classes/MoviePlot$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.12/classes/MoviePlot$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	test.sc[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.12/classes/test.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$anonfun$main$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MoviePlot.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.12/classes/MoviePlot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/MoviePlot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	readfile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/readfile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/MoviePlot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/MoviePlot$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	readfile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/readfile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment2/target/scala-2.11/classes/PageRank$$anonfun$main$2.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
