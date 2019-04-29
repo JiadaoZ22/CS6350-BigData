@@ -1,103 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d21fdd8-cdac-45a7-b1e0-003f8980911b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Assignment1/ASSIGNMENT1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment1/CS6350HW1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment1/CS6350_CoverPage.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment1/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment1/ass1-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment1b/ASSIGNMENT1b.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment1b/CS6350_ass1b_CoverPage.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment1b/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment1b/ass1-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment1b/ass1b.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment1b/source-code.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment2/assign2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment2/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__joda_time_joda_time_2_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_2_5_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_2_4_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_3_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__xerces_xercesImpl_2_8_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__xml_apis_xml_apis_1_3_03_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kafka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kafka.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4fe7b3965722a4473c67$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4fe7b3965722a4473c67.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4fe7b3965722a4473c67.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/default/kafka-build-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/default/kafka-build-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/default/kafka-build-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/default/kafka-build-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$927a959b5e665b98c19d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$927a959b5e665b98c19d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$927a959b5e665b98c19d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$95dd6626ddde20107e66$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$95dd6626ddde20107e66.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$95dd6626ddde20107e66.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aafe8438fa52d80520b5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aafe8438fa52d80520b5.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aafe8438fa52d80520b5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba9a2a0aa94b19f07d40$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba9a2a0aa94b19f07d40.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ba9a2a0aa94b19f07d40.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c323b7d5a46514655b4d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c323b7d5a46514655b4d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c323b7d5a46514655b4d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ff5b1eeec282e91d04ea$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ff5b1eeec282e91d04ea.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ff5b1eeec282e91d04ea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/kafka-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/kafka-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/kafka-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/kafka-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-kafka-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/KafkaTwitter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/KafkaTwitterTopic.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Q1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Q1.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/T2.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Ttest.scala" beforeDir="false" />
-    </list>
+    <list default="true" id="3d21fdd8-cdac-45a7-b1e0-003f8980911b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -243,7 +147,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="209" />
     <option name="y" value="280" />
     <option name="width" value="1168" />
@@ -377,7 +281,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556339369787" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556579100721" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -500,12 +404,12 @@
       <workItem from="1556316321199" duration="6705000" />
       <workItem from="1556330830155" duration="2087000" />
       <workItem from="1556333298533" duration="1329000" />
-      <workItem from="1556334874429" duration="2696000" />
+      <workItem from="1556334874429" duration="3746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61568000" />
+    <option name="totallyTimeSpent" value="62618000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
