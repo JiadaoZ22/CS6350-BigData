@@ -29,7 +29,10 @@ libraryDependencies ++= Seq(
 //  "org.apache.bahir" %% "spark-streaming-twitter" % "2.4.0-SNAPSHOT",
   //"org.apache.spark" %% "kafka-clients" % "0.11.0.1"
   //"org.apache.spark" %% "spark-sql-kafka-0-10" % "2.4.1",
-  "edu.stanford.nlp" % "stanford-corenlp" % "3.5.2" artifacts (Artifact("stanford-corenlp", "models"), Artifact("stanford-corenlp"))
+  "edu.stanford.nlp" % "stanford-corenlp" % "3.5.2" artifacts (Artifact("stanford-corenlp", "models"), Artifact("stanford-corenlp")),
+  "org.apache.spark" %% "spark-mllib" % sparkVersion % "provided",
+  "org.apache.spark" %% "spark-hive" % sparkVersion % "provided",
+  "org.apache.spark" %% "spark-core" % sparkVersion % "provided"
 )
 
 assemblyMergeStrategy in assembly := {
