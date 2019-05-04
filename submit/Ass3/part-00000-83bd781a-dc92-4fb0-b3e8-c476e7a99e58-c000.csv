@@ -1,0 +1,3 @@
+ml_model,accuracy
+Naive Bayes,0.6953417205032302
+Random Forest,0.6280176810608636
