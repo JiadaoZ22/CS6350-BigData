@@ -70,4 +70,4 @@ Uploaded the source data file and jar file into one folder in AWS then create th
     spark-submit --deploy-mode cluster --class "TwitterQ2" 
     s3://cs6350bigdata/ass3/kafka/target/scala-2.11/kafka_2.11-0.1.jar
     s3://cs6350bigdata/ass3/Tweets.csv
-    s3://cs6350bigdata/ass3/q2
+    s3://cs6350bigdata/ass3/q2/
