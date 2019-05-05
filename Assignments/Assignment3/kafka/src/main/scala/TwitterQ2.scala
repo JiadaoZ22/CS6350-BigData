@@ -16,7 +16,7 @@ object TwitterQ2 {
     }
     val spark = SparkSession
       .builder()
-      .appName("question1")
+      .appName("TwitterQ2")
       .getOrCreate()
     val sc = spark.sparkContext
     import spark.implicits._
