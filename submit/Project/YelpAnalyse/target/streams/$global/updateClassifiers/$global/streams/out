@@ -281,101 +281,21 @@
 [debug] == resolving dependencies default#yelpanalyse$sources;0.1.0-SNAPSHOT->jline#jline;2.14.6 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.7!scala-library.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.7!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
-[debug] no default ivy user dir defined: set to /home/jiadao/.ivy2
-[debug] no default ivy user dir defined: set to /home/jiadao/.ivy2
-[debug] no default ivy user dir defined: set to /home/jiadao/.ivy2
-[debug] no default ivy user dir defined: set to /home/jiadao/.ivy2
-[debug] no default ivy user dir defined: set to /home/jiadao/.ivy2
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default cache defined: set to /home/jiadao/.ivy2/cache
-[debug] no default cache defined: set to /home/jiadao/.ivy2/cache
-[debug] no default cache defined: set to /home/jiadao/.ivy2/cache
-[debug] no default cache defined: set to /home/jiadao/.ivy2/cache
-[debug] no default cache defined: set to /home/jiadao/.ivy2/cache
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (33ms)
-[debug] including url: jar:file:/home/jiadao/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] 	default cache: /home/jiadao/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] settings loaded (35ms)
-[debug] settings loaded (35ms)
-[debug] settings loaded (35ms)
-[debug] 	default cache: /home/jiadao/.ivy2/cache
-[debug] settings loaded (34ms)
-[debug] 	default resolver: default
-[debug] 	default cache: /home/jiadao/.ivy2/cache
-[debug] 	-- 5 resolvers:
-[debug] 	default resolver: default
-[debug] 	shared [file]
-[debug] 	-- 5 resolvers:
-[debug] 	default [chain] [local, main]
-[debug] 	shared [file]
-[debug] 	default cache: /home/jiadao/.ivy2/cache
-[debug] 	default cache: /home/jiadao/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	public [ibiblio]
-[debug] 	default [chain] [local, main]
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	public [ibiblio]
-[debug] 	shared [file]
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	main [chain] [shared, public]
-[debug] 	default [chain] [local, main]
-[debug] 	main [chain] [shared, public]
-[debug] 	public [ibiblio]
-[debug] 	local [file]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 	local [file]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] :: resolution report :: resolve 141ms :: artifacts dl 63ms
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT compile produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-compile.xml
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT runtime produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-runtime.xml
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT test produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-test.xml
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT provided produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-provided.xml
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT optional produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-optional.xml
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT compile-internal produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-compile-internal.xml
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT runtime-internal produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-runtime-internal.xml
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT test-internal produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-test-internal.xml
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT plugin produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-plugin.xml
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT pom produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-pom.xml
-[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT scala-tool produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-scala-tool.xml
-[debug] 	resolve done (141ms resolve - 63ms download)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.7!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.7!scala-compiler.jar(src)
+[debug] :: resolution report :: resolve 15ms :: artifacts dl 2ms
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT compile produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-compile.xml
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT runtime produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-runtime.xml
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT test produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-test.xml
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT provided produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-provided.xml
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT optional produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-optional.xml
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT compile-internal produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-compile-internal.xml
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT runtime-internal produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-runtime-internal.xml
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT test-internal produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-test-internal.xml
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT plugin produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-plugin.xml
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT pom produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-pom.xml
+[debug] 	report for default#yelpanalyse$sources;0.1.0-SNAPSHOT scala-tool produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse$sources-scala-tool.xml
+[debug] 	resolve done (15ms resolve - 2ms download)

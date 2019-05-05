@@ -252,22 +252,22 @@
 [debug] ignoring unhandled DependencyDescriptorMediator: class sbt.internal.librarymanagement.IvyScalaUtil$OverrideScalaMediator
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.7!scala-library.jar
 [debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.7!scala-compiler.jar
-[debug] :: resolution report :: resolve 14ms :: artifacts dl 1ms
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT compile produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-compile.xml
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT runtime produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-runtime.xml
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT test produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-test.xml
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT provided produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-provided.xml
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT optional produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-optional.xml
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT compile-internal produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-compile-internal.xml
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT runtime-internal produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-runtime-internal.xml
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT test-internal produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-test-internal.xml
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT plugin produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-plugin.xml
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT pom produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-pom.xml
-[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT scala-tool produced in /home/jiadao/Code/Github/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-scala-tool.xml
-[debug] 	resolve done (14ms resolve - 1ms download)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.7!scala-library.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)
+[debug] :: resolution report :: resolve 30ms :: artifacts dl 1ms
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT compile produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-compile.xml
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT runtime produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-runtime.xml
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT test produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-test.xml
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT provided produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-provided.xml
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT optional produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-optional.xml
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT compile-internal produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-compile-internal.xml
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT runtime-internal produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-runtime-internal.xml
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT test-internal produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-test-internal.xml
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT plugin produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-plugin.xml
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT pom produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-pom.xml
+[debug] 	report for default#yelpanalyse_2.12;0.1.0-SNAPSHOT scala-tool produced in /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/submit/Project/YelpAnalyse/target/scala-2.12/resolution-cache/reports/default-yelpanalyse_2.12-scala-tool.xml
+[debug] 	resolve done (30ms resolve - 1ms download)
 [info] Done updating.

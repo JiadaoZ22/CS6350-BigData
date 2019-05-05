@@ -4,7 +4,7 @@
 		module="yelpanalyse$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190429183506"
+		publication="20190505112507"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

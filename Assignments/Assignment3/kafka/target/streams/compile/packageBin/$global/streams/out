@@ -1,0 +1,93 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/kafka_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Q1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Q1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitterTopic$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitterTopic$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Q1$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Q1$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitter$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitter$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitter$$anonfun$3$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitter$$anonfun$3$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Q1$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Q1$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalyzer$$anonfun$extractSentiments$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/SentimentAnalyzer$$anonfun$extractSentiments$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TwitterQ2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/TwitterQ2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalyzer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/SentimentAnalyzer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	twitter4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/twitter4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Q1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Q1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Q1$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Q1$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Q1$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Q1$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$$anonfun$extractWords$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Utils$$anonfun$extractWords$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$$anonfun$extractWords$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Utils$$anonfun$extractWords$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$$anonfun$toLowercase$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Utils$$anonfun$toLowercase$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$$anonfun$keepMeaningfulWords$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Utils$$anonfun$keepMeaningfulWords$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitterTopic$$anonfun$3$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitterTopic$$anonfun$3$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TwitterQ2$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/TwitterQ2$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalyzer$Sentiment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/SentimentAnalyzer$Sentiment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$$anonfun$keepActualWords$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Utils$$anonfun$keepActualWords$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitterTopic$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitterTopic$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitterTopic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitterTopic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitter$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitter$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalyzer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/SentimentAnalyzer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$$anonfun$computeScore$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Utils$$anonfun$computeScore$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Q1$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Q1$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitter$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitter$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitterTopic$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitterTopic$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalyzer$$anonfun$extractSentiments$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/SentimentAnalyzer$$anonfun$extractSentiments$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$$anonfun$makeReadable$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/Utils$$anonfun$makeReadable$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitterTopic$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitterTopic$$anonfun$3$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitter$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitter$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SentimentAnalyzer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/SentimentAnalyzer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitter$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitter$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitterTopic$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitterTopic$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaTwitterTopic$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/KafkaTwitterTopic$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TwitterQ2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiadao/Google Drive/19Spring/6350BigData/CS6350-BigData/Assignments/Assignment3/kafka/target/scala-2.11/classes/TwitterQ2$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
